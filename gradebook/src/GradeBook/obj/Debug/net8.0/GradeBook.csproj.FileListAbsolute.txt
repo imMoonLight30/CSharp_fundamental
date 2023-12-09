@@ -12,3 +12,4 @@ D:\C#_fundamentals\gradebook\src\GradeBook\obj\Debug\net8.0\refint\GradeBook.dll
 D:\C#_fundamentals\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.pdb
 D:\C#_fundamentals\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.genruntimeconfig.cache
 D:\C#_fundamentals\gradebook\src\GradeBook\obj\Debug\net8.0\ref\GradeBook.dll
+D:\C#_fundamentals\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.sourcelink.json

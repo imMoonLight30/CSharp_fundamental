@@ -1,0 +1,17 @@
+# Build and Release Folders
+gradebook\src\GradeBook\bin
+gradebook\src\GradeBook\obj
+gradebook/.vscode/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
